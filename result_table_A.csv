@@ -1,0 +1,11 @@
+Date,EmployeeName,Plan,PolicyNumber,Premium
+01-05-2023,John_Doe,GoldPlan,AB12345,150
+02-05-2023,Jane_Smith,SilverPlan,CD67890,100
+03-05-2023,Michael_Brown,BronzePlan,EF10111,50
+04-05-2023,Alice_Johnson,GoldPlan,GH12121,150
+05-05-2023,Bob_Wilson,SilverPlan,IJ13131,100
+06-05-2023,Carol_Martinez,BronzePlan,KL14141,50
+07-05-2023,David_Anderson,GoldPlan,MN15151,150
+08-05-2023,Eva_Thomas,SilverPlan,OP16161,100
+09-05-2023,Frank_Jackson,BronzePlan,QR17171,50
+10-05-2023,Grace_White,GoldPlan,ST18181,150
